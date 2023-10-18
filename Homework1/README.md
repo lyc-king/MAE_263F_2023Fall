@@ -13,4 +13,4 @@
   
 ## Problem3.m
 1. For Q1, please run the code directly. Figure (2) will answer the questions.
-2. For Q2, please change the loop condition to _1:length(PP0)_ (**Line 57**) to collect data with different forces. Figure (3) will answer the questions.
+2. For Q2, please change the loop condition to '1:length(PP0)' (**Line 57**) to collect data with different forces. Figure (3) will answer the questions.
