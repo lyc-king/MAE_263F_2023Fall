@@ -1,2 +1,4 @@
-# 263F_Fall2023
-This is a repository intended for 263F Fall 2023
+# MAE_263F_2023Fall
+
+This is a repository intended for Assignments, Proposal, Midterm Report and Final Report of Yuchen(Charles) Li, UID: 305482394
+
